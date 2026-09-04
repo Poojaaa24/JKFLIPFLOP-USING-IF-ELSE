@@ -1,4 +1,4 @@
-<img width="1402" height="1122" alt="ChatGPT Image Sep 4, 2026, 08_59_54 PM" src="https://github.com/user-attachments/assets/e1386892-4812-4d4b-afce-93e89f900e1e" /><img width="1721" height="914" alt="ChatGPT Image Sep 4, 2026, 07_40_50 PM" src="https://github.com/user-attachments/assets/1957b455-1cc3-431d-8181-3f428a63caf9" /># JKFLIPFLOP-USING-IF-ELSE
+# JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
 
