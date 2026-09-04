@@ -77,10 +77,10 @@ begin
 end
 endmodule
 ```
-**RTL LOGIC FOR FLIPFLOPS**
+## **RTL LOGIC FOR FLIPFLOPS**
 <img width="663" height="515" alt="Screenshot 2026-09-04 210240" src="https://github.com/user-attachments/assets/4d32bacd-abae-4429-8cf1-192f9e68f7a4" />
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+## **TIMING DIGRAMS FOR FLIP FLOPS**
 <img width="692" height="367" alt="Screenshot 2026-09-04 211041" src="https://github.com/user-attachments/assets/a5f5c75e-1b3e-498f-b44a-1aac8fe5d210" />
 
 **RESULTS**
